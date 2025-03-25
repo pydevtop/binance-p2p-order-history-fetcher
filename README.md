@@ -1,4 +1,4 @@
-# Binance P2P Order History Fetcher to retrieve and save P2P order history (Full Name)
+# Binance P2P Order History Fetcher (with Full Name)
 Binance P2P Order History Fetcher to retrieve and save P2P order history, including Full Name
 
 <p align="center"><img width="400" src="https://py-dev.top/components/com_jshopping/files/img_products/Binance_P2P_Order_History_Fetcher.png"></p>
