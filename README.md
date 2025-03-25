@@ -49,3 +49,14 @@ payMethodName – Payment method (e.g., bank transfer)
 
 Match time (UTC) – Trade time in UTC format (2023-08-22 12:47:11)
 ```
+
+#### Additional Information
+System requirements: Windows 10/11, Python 3.x.x
+
+## Buy a subscription to Binance P2P Order History Fetcher (with Full Name)
+https://py-dev.top/application-software/binance-p2p-order-history-fetcher-with-full-name
+
+## Contacts
+Telegram:  @morgan_sql<br>
+Telegram channel: https://t.me/pydevtop
+
