@@ -23,7 +23,7 @@ tradeType – Trade type (buy/sell)
 
 asset – Asset being bought/sold (e.g., USDT, BTC)
 
-fiat – Fiat currency of the payment (e.g., USD, RUB)
+fiat – Fiat currency of the payment (e.g., USD, EUR)
 
 fiatSymbol – Fiat currency symbol (e.g., €, $, £)
 
