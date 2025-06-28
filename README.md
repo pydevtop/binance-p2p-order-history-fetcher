@@ -50,8 +50,23 @@ payMethodName – Payment method (e.g., bank transfer)
 Match time (UTC) – Trade time in UTC format (2023-08-22 12:47:11)
 ```
 
-#### Additional Information
-System requirements: Windows 10/11, Python 3.x.x
+## ✅ System Requirements
+
+### 🖥️ Operating System
+- Windows 10/11  
+- macOS  
+- Linux (Ubuntu, Debian, etc.)
+
+### 🐍 Python Version
+- Python 3.10 or higher
+
+### 📄 Description
+- The bot is written in **pure Python** and is **fully cross-platform**.
+- Compatible with all major desktop operating systems.
+- Only the **startup method** may vary slightly depending on the platform:
+  - `.bat` file for **Windows**
+  - `.sh` shell script for **Linux/macOS**
+
 
 ## Buy Binance P2P Order History Fetcher (with Full Name)
 https://py-dev.top/application-software/binance-p2p-order-history-fetcher-with-full-name
