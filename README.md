@@ -61,7 +61,7 @@ Match time (UTC) – Trade time in UTC format (2023-08-22 12:47:11)
 - Python 3.10 or higher
 
 ### 📄 Description
-- The bot is written in **pure Python** and is **fully cross-platform**.
+- The program is written in **pure Python** and is **fully cross-platform**.
 - Compatible with all major desktop operating systems.
 - Only the **startup method** may vary slightly depending on the platform:
   - `.bat` file for **Windows**
