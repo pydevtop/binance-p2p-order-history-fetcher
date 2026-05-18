@@ -73,7 +73,7 @@ https://py-dev.top/application-software/binance-p2p-order-history-fetcher-with-f
 
 ## Contacts
 Telegram:  @morgan_sql<br>
-Telegram channel: https://t.me/pydevtop
+
 
 ## License and Usage Notice
 
