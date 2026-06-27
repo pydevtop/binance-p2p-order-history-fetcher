@@ -1,5 +1,22 @@
 # Binance P2P Order History Fetcher (with Full Name)
 
+# 🌍 Available Documentation
+
+| Language     | Documentation                |
+| ------------ | ---------------------------- |
+| 🇺🇸 English | [README.md](README.md)       |
+| 🇪🇸 Español | [README.es.md](README.es.md) |
+
+---
+
+## 🇪🇸 Documentación en Español
+
+¿Buscas una herramienta para **exportar el historial de Binance P2P**, obtener **los nombres completos de los clientes**, generar **informes de Microsoft Excel**, preparar documentación para **contabilidad**, **impuestos** o **auditorías**?
+
+👉 Lee la documentación completa en español:
+
+**[README.es.md](README.es.md)**
+
 > **Export Binance P2P Order History to Microsoft Excel with Full Customer Names, Payment Methods and Complete Transaction Details.**
 
 <p align="center">
