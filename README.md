@@ -168,6 +168,17 @@ Learn more:
 
 ---
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+
+![Windows](https://img.shields.io/badge/Windows-Supported-success)
+
+![Linux](https://img.shields.io/badge/Linux-Supported-success)
+
+![macOS](https://img.shields.io/badge/macOS-Supported-success)
+
+![MIT](https://img.shields.io/badge/License-MIT-green)
+
+
 # Related Binance P2P Automation Projects
 
 ## Binance P2P Trade Bot
