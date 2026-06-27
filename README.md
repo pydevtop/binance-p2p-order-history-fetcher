@@ -1,100 +1,198 @@
 # Binance P2P Order History Fetcher (with Full Name)
-Binance P2P Order History Fetcher to retrieve and save P2P order history, including Full Name
 
-<p align="center"><img width="400" src="https://py-dev.top/components/com_jshopping/files/img_products/Binance_P2P_Order_History_Fetcher.png"></p>
+> **Export Binance P2P Order History to Microsoft Excel with Full Customer Names, Payment Methods and Complete Transaction Details.**
 
-Binance P2P Order History Fetcher is a Python tool designed to fetch and save the history of P2P orders from Binance without limitations, specifically for generating reports with full names and surnames
+<p align="center">
+<img width="650" src="https://py-dev.top/components/com_jshopping/files/img_products/Binance_P2P_Order_History_Fetcher.png" alt="Binance P2P Order History Fetcher with Full Customer Names">
+</p>
 
-Unlike the export feature on Binance, which provides order history with names and surnames redacted (replaced by ***)
+---
 
-This tool retrieves complete data into an Excel file, ensuring access to the necessary information and providing a convenient format for further processing and reporting
+## Overview
 
-This program allows you to export data for the entire year or for any specific month of the year
+**Binance P2P Order History Fetcher** is a professional Python application developed for **Binance P2P merchants**, cryptocurrency traders, accountants and businesses that need complete transaction records for reporting and bookkeeping.
 
- 
+The standard Binance P2P export masks customer names using asterisks (***) which makes accounting, financial reconciliation and business reporting more difficult.
 
-### Fields extracted by the program into the Excel file:
+This software solves that limitation by exporting **complete Binance P2P transaction history** into **Microsoft Excel**, including **Full Customer Names** whenever that information is available through your Binance account.
+
+Whether you process hundreds or thousands of Binance P2P orders every month, Binance P2P Order History Fetcher helps automate reporting and saves hours of manual work.
+
+---
+
+# Why Use Binance P2P Order History Fetcher?
+
+✅ Export complete Binance P2P order history.
+
+✅ Retrieve **Full Customer Names** instead of masked (***) values.
+
+✅ Export directly to Microsoft Excel.
+
+✅ Generate monthly, yearly or custom reports.
+
+✅ Perfect for accounting and bookkeeping.
+
+✅ Useful for tax reporting and financial audits.
+
+✅ Professional reporting for high-volume Binance P2P merchants.
+
+✅ Developed in Python.
+
+✅ Windows, Linux and macOS compatible.
+
+---
+
+# Standard Binance Export vs Order History Fetcher
+
+| Feature                | Binance Export | Order History Fetcher |
+| ---------------------- | -------------- | --------------------- |
+| Export Order History   | ✅              | ✅                     |
+| Microsoft Excel Export | ✅              | ✅                     |
+| Full Customer Names    | ❌ Hidden (***) | ✅                     |
+| Monthly Reports        | Limited        | ✅                     |
+| Annual Reports         | Limited        | ✅                     |
+| Accounting Ready       | ❌              | ✅                     |
+| Bookkeeping Ready      | ❌              | ✅                     |
+| Financial Reporting    | ❌              | ✅                     |
+
+---
+
+# Excel Report Includes
+
+The generated Microsoft Excel report contains:
+
+```text
+orderNumber
+
+advNo
+
+tradeType
+
+asset
+
+fiat
+
+fiatSymbol
+
+amount
+
+unitPrice
+
+totalPrice
+
+orderStatus
+
+commission
+
+takerCommissionRate
+
+takerCommission
+
+takerAmount
+
+Full Customer Name
+
+payMethodName
+
+Match Time (UTC)
 ```
-orderNumber – Unique order identifier
 
-advNo – Advertisement number on the P2P platform
+---
 
-tradeType – Trade type (buy/sell)
+# Perfect For
 
-asset – Asset being bought/sold (e.g., USDT, BTC)
+* Binance P2P Merchants
+* Professional Crypto Traders
+* Accounting Departments
+* Bookkeepers
+* Tax Reporting
+* Financial Audits
+* Business Reporting
+* Compliance Teams
 
-fiat – Fiat currency of the payment (e.g., USD, EUR)
+---
 
-fiatSymbol – Fiat currency symbol (e.g., €, $, £)
+# System Requirements
 
-amount – Amount of cryptocurrency in the trade
+## Operating Systems
 
-totalPrice – Total trade amount in fiat currency
+* Windows 10 / 11
+* Linux
+* macOS
 
-unitPrice – Price per unit of cryptocurrency
+## Python
 
-orderStatus – Order status (e.g., completed, canceled)
+* Python 3.10+
 
-commission – Trade commission
+The application is written in **pure Python** and works on all major desktop operating systems.
 
-takerCommissionRate – Taker commission rate (percentage)
+---
 
-takerCommission – Taker commission amount
+# Why Merchants Choose This Software
 
-takerAmount – Cryptocurrency amount after deducting the commission
+Professional Binance P2P merchants often process hundreds or thousands of orders every month.
 
-Full Name  - (e.g., John Smith)
+Instead of manually collecting information from Binance, this software generates structured Microsoft Excel reports that are ready for:
 
-payMethodName – Payment method (e.g., bank transfer)
+* Accounting
+* Bookkeeping
+* Tax Preparation
+* Business Reporting
+* Financial Analysis
+* Historical Record Keeping
 
-Match time (UTC) – Trade time in UTC format (2023-08-22 12:47:11)
-```
+---
 
-## ✅ System Requirements
+# Product Page
 
-### 🖥️ Operating System
-- Windows 10/11  
-- macOS  
-- Linux (Ubuntu, Debian, etc.)
+Learn more:
 
-### 🐍 Python Version
-- Python 3.10 or higher
+**https://py-dev.top/application-software/binance-p2p-order-history-fetcher-with-full-name**
 
-### 📄 Description
-- The program is written in **pure Python** and is **fully cross-platform**.
-- Compatible with all major desktop operating systems.
-- Only the **startup method** may vary slightly depending on the platform:
-  - `.bat` file for **Windows**
-  - `.sh` shell script for **Linux/macOS**
+---
 
+# Related Binance P2P Automation Projects
 
-## Buy Binance P2P Order History Fetcher (with Full Name)
-https://py-dev.top/application-software/binance-p2p-order-history-fetcher-with-full-name
+## Binance P2P Trade Bot
 
-## Contacts
-Telegram:  @morgan_sql<br>
+Professional automatic repricing, competitor tracking and multi-ad management.
 
-******************************************************************************
-####  Similar developments:
-******************************************************************************
-P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
+https://github.com/pydevtop/p2p-trade-bot-binance
 
-### Related Binance P2P Automation Tool
+---
 
-**Binance P2P Telegram Bot** is a Python-based trading automation solution that provides automatic chat responses, order tracking, payment detection, and instant crypto release for Binance P2P merchants.
+## Binance P2P Telegram Bot
+
+Automatic message replies, payment detection, order tracking and crypto release.
 
 https://github.com/pydevtop/p2p-binance-telegram-bot
-******************************************************************************
 
-## License and Usage Notice
+---
 
-This project is licensed under the MIT License.
+# Contact
 
-⚠️ However, unauthorized copying, redistribution, publication, or forking of this repository in a way that falsely attributes authorship or contributor status is strictly prohibited.
+Telegram
 
-The author (PyDev) does not consent to being listed as a contributor in unauthorized forks or copies of this repository.
+**@morgan_sql**
 
-If you find any unauthorized fork or copy that misuses the author’s name, please report it to GitHub Support.
+---
 
-Author: PyDev
+# License
 
+MIT License
+
+---
+
+## Notice
+
+This repository is published for demonstration and evaluation purposes.
+
+Unauthorized redistribution, commercial resale or publication while falsely claiming authorship is prohibited.
+
+If you discover repositories or websites impersonating the original author or misrepresenting the source of this software, please report them to GitHub Support.
+
+---
+
+Author
+
+**PyDev**
