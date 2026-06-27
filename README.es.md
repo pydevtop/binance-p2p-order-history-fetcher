@@ -10,15 +10,7 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue)
 
-![Windows](https://img.shields.io/badge/Windows-Supported-success)
-
-![Linux](https://img.shields.io/badge/Linux-Supported-success)
-
-![macOS](https://img.shields.io/badge/macOS-Supported-success)
-
-![MIT](https://img.shields.io/badge/License-MIT-green)
 
 # Descripción
 
@@ -73,6 +65,17 @@ https://py-dev.top/es/software-aplicado/binance-p2p-order-history-fetcher-with-f
 # Contacto
 
 Telegram: @morgan_sql<br>
+
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+
+![Windows](https://img.shields.io/badge/Windows-Supported-success)
+
+![Linux](https://img.shields.io/badge/Linux-Supported-success)
+
+![macOS](https://img.shields.io/badge/macOS-Supported-success)
+
+![MIT](https://img.shields.io/badge/License-MIT-green)
 
 ####  Similar developments:
 ******************************************************************************
